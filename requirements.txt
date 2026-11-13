@@ -1,0 +1,11 @@
+opencv-python
+fer
+tensorflow
+Pillow
+matplotlib
+numpy
+sounddevice
+soundfile
+SpeechRecognition
+PyAudio
+pyttsx3

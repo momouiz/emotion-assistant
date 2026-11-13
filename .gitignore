@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# recordings / pictures from testing
+*.wav
+*.mp4
+*.jpg
+*.png
